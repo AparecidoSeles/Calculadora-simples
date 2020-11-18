@@ -1,0 +1,26 @@
+C:\Users\Ariel\OneDrive\Desktop\calculadora simplees\bin\Debug\netcoreapp3.1\calculadora simplees.exe
+C:\Users\Ariel\OneDrive\Desktop\calculadora simplees\bin\Debug\netcoreapp3.1\calculadora simplees.deps.json
+C:\Users\Ariel\OneDrive\Desktop\calculadora simplees\bin\Debug\netcoreapp3.1\calculadora simplees.runtimeconfig.json
+C:\Users\Ariel\OneDrive\Desktop\calculadora simplees\bin\Debug\netcoreapp3.1\calculadora simplees.runtimeconfig.dev.json
+C:\Users\Ariel\OneDrive\Desktop\calculadora simplees\bin\Debug\netcoreapp3.1\calculadora simplees.dll
+C:\Users\Ariel\OneDrive\Desktop\calculadora simplees\bin\Debug\netcoreapp3.1\calculadora simplees.pdb
+C:\Users\Ariel\OneDrive\Desktop\calculadora simplees\obj\Debug\netcoreapp3.1\calculadora simplees.csprojAssemblyReference.cache
+C:\Users\Ariel\OneDrive\Desktop\calculadora simplees\obj\Debug\netcoreapp3.1\calculadora simplees.AssemblyInfoInputs.cache
+C:\Users\Ariel\OneDrive\Desktop\calculadora simplees\obj\Debug\netcoreapp3.1\calculadora simplees.AssemblyInfo.cs
+C:\Users\Ariel\OneDrive\Desktop\calculadora simplees\obj\Debug\netcoreapp3.1\calculadora simplees.csproj.CoreCompileInputs.cache
+C:\Users\Ariel\OneDrive\Desktop\calculadora simplees\obj\Debug\netcoreapp3.1\calculadora simplees.dll
+C:\Users\Ariel\OneDrive\Desktop\calculadora simplees\obj\Debug\netcoreapp3.1\calculadora simplees.pdb
+C:\Users\Ariel\OneDrive\Desktop\calculadora simplees\obj\Debug\netcoreapp3.1\calculadora simplees.genruntimeconfig.cache
+C:\Users\Ariel\OneDrive\Desktop\Calculadora-simples\bin\Debug\netcoreapp3.1\calculadora simplees.exe
+C:\Users\Ariel\OneDrive\Desktop\Calculadora-simples\bin\Debug\netcoreapp3.1\calculadora simplees.deps.json
+C:\Users\Ariel\OneDrive\Desktop\Calculadora-simples\bin\Debug\netcoreapp3.1\calculadora simplees.runtimeconfig.json
+C:\Users\Ariel\OneDrive\Desktop\Calculadora-simples\bin\Debug\netcoreapp3.1\calculadora simplees.runtimeconfig.dev.json
+C:\Users\Ariel\OneDrive\Desktop\Calculadora-simples\bin\Debug\netcoreapp3.1\calculadora simplees.dll
+C:\Users\Ariel\OneDrive\Desktop\Calculadora-simples\bin\Debug\netcoreapp3.1\calculadora simplees.pdb
+C:\Users\Ariel\OneDrive\Desktop\Calculadora-simples\obj\Debug\netcoreapp3.1\calculadora simplees.csprojAssemblyReference.cache
+C:\Users\Ariel\OneDrive\Desktop\Calculadora-simples\obj\Debug\netcoreapp3.1\calculadora simplees.AssemblyInfoInputs.cache
+C:\Users\Ariel\OneDrive\Desktop\Calculadora-simples\obj\Debug\netcoreapp3.1\calculadora simplees.AssemblyInfo.cs
+C:\Users\Ariel\OneDrive\Desktop\Calculadora-simples\obj\Debug\netcoreapp3.1\calculadora simplees.csproj.CoreCompileInputs.cache
+C:\Users\Ariel\OneDrive\Desktop\Calculadora-simples\obj\Debug\netcoreapp3.1\calculadora simplees.dll
+C:\Users\Ariel\OneDrive\Desktop\Calculadora-simples\obj\Debug\netcoreapp3.1\calculadora simplees.pdb
+C:\Users\Ariel\OneDrive\Desktop\Calculadora-simples\obj\Debug\netcoreapp3.1\calculadora simplees.genruntimeconfig.cache
